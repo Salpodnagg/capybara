@@ -1,0 +1,15 @@
+D:\Kursovaya\Calc\bin\Debug\net6.0\Calc.exe
+D:\Kursovaya\Calc\bin\Debug\net6.0\Calc.deps.json
+D:\Kursovaya\Calc\bin\Debug\net6.0\Calc.runtimeconfig.json
+D:\Kursovaya\Calc\bin\Debug\net6.0\Calc.dll
+D:\Kursovaya\Calc\bin\Debug\net6.0\Calc.pdb
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.csproj.AssemblyReference.cache
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.AssemblyInfoInputs.cache
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.AssemblyInfo.cs
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.csproj.CoreCompileInputs.cache
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.dll
+D:\Kursovaya\Calc\obj\Debug\net6.0\refint\Calc.dll
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.pdb
+D:\Kursovaya\Calc\obj\Debug\net6.0\Calc.genruntimeconfig.cache
+D:\Kursovaya\Calc\obj\Debug\net6.0\ref\Calc.dll

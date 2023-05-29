@@ -1,17 +1,4 @@
-﻿public void ProcessStart(string text)
-{
-    List<char> symbols = SymbolFinder(text);
-    string[] nums = text.Split('*', '/', '+', '-');
-    List<double> numbers = FindNum(nums);
-    Console.WriteLine($"Результат: {Prioritets(symbols, numbers)}");
-}
-
-public List<double> FindNum(string[] nums)
-{
-    List<double> numbers = new List<double>();
-
-    for (int i = 0; i < nums.Length; i++)
-    {
+﻿KLUBNIKA BOBMA CHESTNO GOVORYA
         numbers.Add(Convert.ToDouble(nums[i]));
     }
 

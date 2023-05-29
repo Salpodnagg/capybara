@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ystu_lab\\Calic\\Calic.csproj": {}
+    "D:\\ystu_lab\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\ystu_lab\\Calic\\Calic.csproj": {
+    "D:\\ystu_lab\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ystu_lab\\Calic\\Calic.csproj",
-        "projectName": "Calic",
-        "projectPath": "D:\\ystu_lab\\Calic\\Calic.csproj",
+        "projectUniqueName": "D:\\ystu_lab\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\ystu_lab\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\mla22\\.nuget\\packages\\",
-        "outputPath": "D:\\ystu_lab\\Calic\\obj\\",
+        "outputPath": "D:\\ystu_lab\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual studio SDK i govno\\NuGetPackages"

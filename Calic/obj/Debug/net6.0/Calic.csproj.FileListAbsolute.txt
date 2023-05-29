@@ -1,5 +1,0 @@
-D:\ystu_lab\Calic\obj\Debug\net6.0\Calic.csproj.AssemblyReference.cache
-D:\ystu_lab\Calic\obj\Debug\net6.0\Calic.GeneratedMSBuildEditorConfig.editorconfig
-D:\ystu_lab\Calic\obj\Debug\net6.0\Calic.AssemblyInfoInputs.cache
-D:\ystu_lab\Calic\obj\Debug\net6.0\Calic.AssemblyInfo.cs
-D:\ystu_lab\Calic\obj\Debug\net6.0\Calic.csproj.CoreCompileInputs.cache

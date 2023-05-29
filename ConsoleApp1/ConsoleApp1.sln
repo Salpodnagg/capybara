@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calic", "Calic.csproj", "{201180C0-87A1-4CAC-8AEE-71C11EE54208}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{D904E5B6-720C-4D94-8620-B370589F0B9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{201180C0-87A1-4CAC-8AEE-71C11EE54208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{201180C0-87A1-4CAC-8AEE-71C11EE54208}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{201180C0-87A1-4CAC-8AEE-71C11EE54208}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{201180C0-87A1-4CAC-8AEE-71C11EE54208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D904E5B6-720C-4D94-8620-B370589F0B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D904E5B6-720C-4D94-8620-B370589F0B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D904E5B6-720C-4D94-8620-B370589F0B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D904E5B6-720C-4D94-8620-B370589F0B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {004D444C-7D74-4414-B52E-4D845B2DD019}
+		SolutionGuid = {DDF68AAA-8145-4338-A5FC-D80454C58C95}
 	EndGlobalSection
 EndGlobal

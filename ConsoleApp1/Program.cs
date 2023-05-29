@@ -9,6 +9,8 @@ namespace c_
 
             string cont;
 
+            do
+            {
 
                 double fn;
                 double sn;
@@ -66,9 +68,12 @@ namespace c_
 
                 }
 
-                // Console.WriteLine("Совершить еще одну операцию?");
-              //  cont = Convert.ToString(Console.ReadLine());
+                Console.WriteLine("Совершить еще одну операцию? y/n");
+                cont = Convert.ToString(Console.ReadLine());
+
+            } while (cont == "y");
 
         }
     }
 }
+

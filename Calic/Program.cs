@@ -1,4 +1,5 @@
 ﻿KLUBNIKA BOBMA CHESTNO GOVORYA
+    DA KTO TI TAKOY 
         numbers.Add(Convert.ToDouble(nums[i]));
     }
 
